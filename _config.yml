@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MY BLOG
-subtitle:
-description: Nico Zhang的个人博客
+title: Zhang Hong
+subtitle: Nico Zhang的个人博客
+description: 人生苦短，我学前端
 author: Nico Zhang
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huno
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
